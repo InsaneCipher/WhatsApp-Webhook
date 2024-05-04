@@ -1,0 +1,9 @@
+How to use: 
+To use the chat-bot simply enter a career orientated question and our bot will reply in a matter of minutes. Do not enter personal information such as name, date of birth, email or phone number please.
+
+Example questions: 
+"How do i get a internship in the UK?", 
+"How can I improve my confidence for an interview?", 
+"What are my options for studying abroad if I live in ______?"
+
+BE WARNED ANY INAPPROPRATE MESSAGES OR QUESTIONS WILL BE LOGGED AND REPORTED!!

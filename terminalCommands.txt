@@ -1,0 +1,9 @@
+// Delete Database
+drizzle-kit drop
+
+// Regen DB
+drizzle-kit generate:pg
+
+// Push DB
+drizzle-kit push:pg --schema src/schema.js --driver pg --connectionString process.env.DATABASE_URL
+

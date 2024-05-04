@@ -1,0 +1,31 @@
+{
+  "name": "whatsapp-cloudapi-quick-start",
+  "version": "1.0.0",
+  "description": "An example webhook for WhatsApp Cloud API quick start tutorial.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "WhatsApp",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.28.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "request": "^2.88.2",
+    "openai": "^4.28.0",
+    "encoding": "^0.1.13",
+    "drizzle-kit": "^0.20.14",
+    "drizzle-orm": "^0.29.3",
+    "postgres": "^3.4.3",
+    "cosine-similarity": "^1.0.1",
+    "ioredis": "^5.3.2",
+    "posthog-node": "^4.0.0",
+    "bcrypt": "^5.1.1",
+    "node-fs": "^0.1.7"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "type": "module"
+}
